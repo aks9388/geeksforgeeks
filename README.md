@@ -1,6 +1,6 @@
 # geeksforgeeks
 Solutions for GeeksforGeeks
-### *nodeServer contains the links of geeksforgeeks sorted in ascending order of difficulties
+### Note: nodeServer contains the links of geeksforgeeks sorted in ascending order of difficulties
 ## Arrays
 - Find a Fixed Point (Value equal to index) in a given array
 - Replace every element with the greatest element on right side
@@ -23,7 +23,7 @@ Solutions for GeeksforGeeks
 - Find the smallest and second smallest elements in an array
 - Find Union and Intersection of two sorted arrays
 ## Linked List
-# Note: *Include LinkedListUtil.h File in every Linked List associated project 
+### Note: *Include LinkedListUtil.h File in every Linked List associated project 
 - counts the number of times a given int occurs in a Linked List
 - delete a Linked List
 - Get Nth node in a Linked List
