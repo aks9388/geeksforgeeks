@@ -22,3 +22,13 @@ Solutions for GeeksforGeeks
 - Find the element that appears once in an array
 - Find the smallest and second smallest elements in an array
 - Find Union and Intersection of two sorted arrays
+## Linked List
+# Note: *Include LinkedListUtil.h File in every Linked List associated project 
+- counts the number of times a given int occurs in a Linked List
+- delete a Linked List
+- Get Nth node in a Linked List
+- Find length of Linked List (Iterative and Recursive)
+- Check if the given two linked lists are identical
+- Move last element to front of a given Linked List
+- Write a recursive function to print reverse of a Linked List
+- Search an element in a Linked List (Iterative and Recursive)
