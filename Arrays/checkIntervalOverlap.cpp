@@ -4,7 +4,10 @@
 //
 // Created by Abhishek Singh on 09-10-2017.
 //
-//
+//Check if any two intervals overlap among a given set of intervals
+
+//An interval is represented as a combination of start time and end time. Given a set of intervals, check if any two intervals overlap.
+
 typedef struct Interval{
     int start;
     int end;
