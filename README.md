@@ -33,6 +33,6 @@ Solutions for GeeksforGeeks
 - Write a recursive function to print reverse of a Linked List
 - Search an element in a Linked List (Iterative and Recursive)
 ## Binary Tree
-### Note: *Include treeUtil.h File in every Linked List associated project 
+### Note: *Include treeUtil.h File in every Binary Tree associated project 
 - Tree Traversals (Inorder, Preorder and Postorder)
 - Calculate Size of a tree
