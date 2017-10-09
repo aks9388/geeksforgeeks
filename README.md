@@ -36,3 +36,7 @@ Solutions for GeeksforGeeks
 ### Note: *Include treeUtil.h File in every Binary Tree associated project 
 - Tree Traversals (Inorder, Preorder and Postorder)
 - Calculate Size of a tree
+- Print nodes at k distance from root
+- Determine if Two Trees are Identical
+- Count leaf nodes in a binary tree
+- Find the Maximum Depth or Height of a Tree
