@@ -1,6 +1,8 @@
 //
 // Created by Abhishek on 09-Oct-17.
 //
+//Given a linked list which is sorted, how will you insert in sorted way
+
 
 #include <malloc.h>
 #include <cstdio>
