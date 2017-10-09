@@ -1,8 +1,4 @@
-/Arrays/.idea/
-/Arrays/cmake-build-debug/
-/Arrays/CMakeLists.txt
-/Arrays/main.cpp
-/LinkedList/.idea/
-/LinkedList/cmake-build-debug/
-/LinkedList/CMakeLists.txt
-/LinkedList/main.cpp
+**/.idea/
+**/cmake-build-debug/
+**/CMakeLists.txt
+**/main.cpp
