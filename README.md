@@ -32,3 +32,7 @@ Solutions for GeeksforGeeks
 - Move last element to front of a given Linked List
 - Write a recursive function to print reverse of a Linked List
 - Search an element in a Linked List (Iterative and Recursive)
+## Binary Tree
+### Note: *Include treeUtil.h File in every Linked List associated project 
+- Tree Traversals (Inorder, Preorder and Postorder)
+- Calculate Size of a tree
