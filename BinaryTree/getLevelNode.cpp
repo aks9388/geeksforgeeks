@@ -1,7 +1,8 @@
 //
 // Created by Abhishek Singh on 10-10-2017.
 //
-
+//Get Level of a node in a Binary Tree
+//Given a Binary Tree and a key, write a function that returns level of the key.
 #include <cstdio>
 #include "treeUtil.h"
 int getLevelNode(Tree *root, int element, int level){
