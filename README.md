@@ -22,6 +22,8 @@ Solutions for GeeksforGeeks
 - Find the element that appears once in an array
 - Find the smallest and second smallest elements in an array
 - Find Union and Intersection of two sorted arrays
+- Find common elements in three sorted arrays
+- Implement two stacks in an array
 ## Linked List
 ### Note: *Include LinkedListUtil.h File in every Linked List associated project 
 - counts the number of times a given int occurs in a Linked List
@@ -32,6 +34,8 @@ Solutions for GeeksforGeeks
 - Move last element to front of a given Linked List
 - Write a recursive function to print reverse of a Linked List
 - Search an element in a Linked List (Iterative and Recursive)
+- Print All Distinct Elements of a given integer array
+- Remove duplicates from a sorted linked list
 ## Binary Tree
 ### Note: *Include treeUtil.h File in every Binary Tree associated project 
 - Tree Traversals (Inorder, Preorder and Postorder)
@@ -40,3 +44,10 @@ Solutions for GeeksforGeeks
 - Determine if Two Trees are Identical
 - Count leaf nodes in a binary tree
 - Find the Maximum Depth or Height of a Tree
+- Write an Efficient Function to Convert a Binary Tree into its Mirror Tree
+- Get Level of a node in a Binary Tree
+- Check for Children Sum Property in a Binary Tree
+- Write a program to Delete a Tree.
+- Find maximum (or minimum) in Binary Tree
+- Iterative Search for a key ‘x’ in Binary Tree
+- Convert a given Binary tree to a tree that holds Logical AND property
